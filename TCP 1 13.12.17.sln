@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCP 1 13.12.17", "TCP 1 13.12.17.csproj", "{B43588C9-D484-1AF6-9F1A-270ADF8FE5CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B43588C9-D484-1AF6-9F1A-270ADF8FE5CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B43588C9-D484-1AF6-9F1A-270ADF8FE5CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B43588C9-D484-1AF6-9F1A-270ADF8FE5CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B43588C9-D484-1AF6-9F1A-270ADF8FE5CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

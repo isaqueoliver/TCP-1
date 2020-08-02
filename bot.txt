@@ -1,0 +1,6 @@
+Quando tiver ninguem por perto, andar pra cima, pra baixo e pra um lado se ele bater na parede do lado, inverter o lado, manter a altura entre 40-70% mais ou menos
+
+Se ele encontrar um inimigo tentar pegar ele de lado e furar o balao por cima.
+
+Se o inimigo tiver emcima de vc, descer e esquivar para um lado, se tiver uma parede perto de vc, ir para o lado oposto para não ser fechado.
+
